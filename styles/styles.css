@@ -1,4 +1,4 @@
-.cats {
+/*.content-box {
   max-width: 500px;
 }
 body {
@@ -6,4 +6,15 @@ body {
 }
 h1 {
   font-size: 3rem;
+}*/
+.content-box {
+  height: 5em;
+  width: 5em;
+  padding: 4em;
+  border-top: 1em;
+  border-right: 1em;
+  border-bottom: 1em;
+  border-left: 1em;
+  border-style: solid;
+  margin: 1em;
 }
